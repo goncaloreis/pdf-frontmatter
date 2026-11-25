@@ -354,7 +354,7 @@ function SpecPage() {
           <p className="text-ink-soft">
             The libraries live in the repo today. npm and PyPI names are reserved
             for v0.1.0; until that publish, copy from{" "}
-            <a href="https://github.com/reisierx/open-matter" target="_blank" rel="noreferrer">
+            <a href="https://github.com/goncaloreis/open-matter" target="_blank" rel="noreferrer">
               GitHub
             </a>
             .
@@ -401,7 +401,7 @@ from open_matter import read_manifest`}
             rows={[
               ["open-matter (TS)", "readManifest / writeManifest in this repo."],
               ["open-matter (Python)", "packages/open-matter-py."],
-              ["Claude plugin", "/plugin marketplace add reisierx/open-matter — skills, commands, MCP."],
+              ["Claude plugin", "/plugin marketplace add goncaloreis/open-matter — skills, commands, MCP."],
               ["MCP server", "npx mcp-open-matter — read_manifest, write_manifest."],
               ["This app", "/app writes a card and races it on your file."],
               ["Loaders", "None merged yet. PRs welcome: check the card before parsing."],
@@ -431,7 +431,7 @@ from open_matter import read_manifest`}
           </h2>
           <p className="text-ink-soft">
             <strong>0.1</strong> — 13 August 2026. First public text.{" "}
-            <a href="https://github.com/reisierx/open-matter" target="_blank" rel="noreferrer">
+            <a href="https://github.com/goncaloreis/open-matter" target="_blank" rel="noreferrer">
               Source
             </a>
             .

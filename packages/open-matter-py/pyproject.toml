@@ -8,7 +8,7 @@ requires-python = ">=3.10"
 dependencies = ["pypdf>=5.0", "PyYAML>=6.0"]
 
 [project.urls]
-Homepage = "https://github.com/open-matter/open-matter"
+Homepage = "https://github.com/goncaloreis/open-matter"
 Specification = "https://open-matter.org/spec"
 
 [build-system]

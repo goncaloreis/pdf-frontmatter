@@ -207,12 +207,12 @@ function Home() {
             ))}
           </ul>
           <pre className="mt-8 overflow-x-auto bg-ink p-4 text-[0.7rem] leading-relaxed text-paper">
-            {`/plugin marketplace add reisierx/open-matter
+            {`/plugin marketplace add goncaloreis/open-matter
 /plugin install open-matter@open-matter`}
           </pre>
           <div className="mt-5 flex flex-col gap-3 sm:flex-row sm:items-center">
             <a
-              href="https://github.com/reisierx/open-matter/tree/main/plugins/open-matter"
+              href="https://github.com/goncaloreis/open-matter/tree/main/plugins/open-matter"
               target="_blank"
               rel="noreferrer"
               className="inline-flex h-11 items-center justify-center border border-oxblood bg-oxblood px-5 text-sm text-oxblood-ink no-underline hover:bg-oxblood-deep hover:text-oxblood-ink"
@@ -220,7 +220,7 @@ function Home() {
               Claude plugin
             </a>
             <a
-              href="https://github.com/reisierx/open-matter/tree/main/skills"
+              href="https://github.com/goncaloreis/open-matter/tree/main/skills"
               target="_blank"
               rel="noreferrer"
               className="inline-flex h-11 items-center justify-center border border-rule px-5 text-sm text-ink no-underline hover:border-ink"
@@ -233,8 +233,8 @@ function Home() {
           </div>
           <p className="mt-6 text-sm text-muted">
             Spec CC0 · code MIT ·{" "}
-            <a href="https://github.com/reisierx/open-matter" target="_blank" rel="noreferrer">
-              github.com/reisierx/open-matter
+            <a href="https://github.com/goncaloreis/open-matter" target="_blank" rel="noreferrer">
+              github.com/goncaloreis/open-matter
             </a>
           </p>
         </div>

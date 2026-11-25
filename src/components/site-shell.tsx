@@ -58,7 +58,7 @@ export function SiteFooter() {
             Why
           </Link>
           <a
-            href="https://github.com/reisierx/open-matter"
+            href="https://github.com/goncaloreis/open-matter"
             target="_blank"
             rel="noreferrer"
             className="text-ink-soft no-underline hover:text-oxblood"

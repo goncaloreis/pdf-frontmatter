@@ -17,7 +17,7 @@ Site: [open-matter.org](https://open-matter.org)
 ## Install (Claude)
 
 ```
-/plugin marketplace add reisierx/open-matter
+/plugin marketplace add goncaloreis/open-matter
 /plugin install open-matter@open-matter
 ```
 

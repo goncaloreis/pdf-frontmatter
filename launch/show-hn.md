@@ -18,7 +18,7 @@ AI already reads PDFs. It just does it from scratch every time, and the understa
 open-matter writes a reserved attachment, `open-matter.yaml`, on a read you were already paying for. Later readers open the card instead of the pages. Tools that do not look still get a normal PDF.
 
 Live: https://open-matter.org
-Spec (CC0) and Claude plugin: https://github.com/reisierx/open-matter
+Spec (CC0) and Claude plugin: https://github.com/goncaloreis/open-matter
 
 ## Maker first comment
 

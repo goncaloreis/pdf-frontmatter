@@ -1,6 +1,6 @@
 # Decisions
 
-- **Name.** The convention is **open-matter**. PDF is the first profile, not the product. Domain `open-matter.org`. Repo `reisierx/open-matter`.
+- **Name.** The convention is **open-matter**. PDF is the first profile, not the product. Domain `open-matter.org`. Repo `goncaloreis/open-matter`.
 - **Spec id.** Writers use `open-matter/0.1` and `open-matter.yaml`. Readers still accept `pdf-frontmatter/0.1` and `agent-frontmatter.yaml`.
 - **Headline.** Stop making AI re-read the same file. The card is **exhaust**: written on a read someone was already paying for. Not an investment you pre-pay hoping for re-reads.
 - **What we are not.** Not a living-document write/patch layer. Not a markdown profile for mAInd. Not prepaid batch enrichment of cold archives. mAInd may steal the *idea*; it is not a workstream here. Live use is the Claude plugin on real PDFs.
@@ -12,7 +12,7 @@
 - **Evals.** Written from the pages, never the card. Structure + ≥75% of questions must pass. A card that fails is not attached.
 - **Nav.** Home, App, Spec.
 - **MCP.** `packages/mcp-open-matter`.
-- **GitHub.** `reisierx/open-matter`.
+- **GitHub.** `goncaloreis/open-matter`.
 - **Packages.** Not on npm/PyPI yet. Do not pretend they are.
 - **Analytics.** None.
 

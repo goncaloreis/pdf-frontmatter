@@ -5,7 +5,7 @@ Skills + slash commands + MCP hands. One install.
 ## Install
 
 ```
-/plugin marketplace add reisierx/open-matter
+/plugin marketplace add goncaloreis/open-matter
 /plugin install open-matter@open-matter
 ```
 
